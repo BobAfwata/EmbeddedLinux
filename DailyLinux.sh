@@ -1,0 +1,1 @@
+less /proc/cpuinfo  # CPU info Linux

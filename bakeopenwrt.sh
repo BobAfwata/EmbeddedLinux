@@ -1,0 +1,1 @@
+sudo apt-get install git-core build-essential subversion libncurses5-dev zlib1g-dev gawk intltool gcc-multilib flex libssl-dev
